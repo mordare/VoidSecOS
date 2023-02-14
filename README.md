@@ -1,6 +1,6 @@
 # VoidSecOS
 <hr>
-<h3>Usage Commands:</h3>
+<h3>Usage Commands (CHROOT NEEDED!):</h3>
 
 <h4>Extract File:</h4>
 
