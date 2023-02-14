@@ -1,5 +1,7 @@
 # VoidSecOS
 <hr>
+<h3><a href="https://github.com/mordare/VoidSecOS/releases">Download VoidSec</a></h3>
+
 <h3>Usage Commands (CHROOT NEEDED!):</h3>
 
 <h4>Extract File:</h4>
