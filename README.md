@@ -4,27 +4,31 @@
 
 <h3>Usage Commands (CHROOT NEEDED!):</h3>
 
+<h4>Get Root Access:</h4>
+
+<pre>sudo -sH</pre>
+
 <h4>Extract File:</h4>
 
-<code>tar -xf voidsec.tar.xz</code>
+<pre>tar -xf voidsec.tar.xz</pre>
 
 <h4>Starting System:</h4>
 
-<code>cd VoidS/</code>
+<pre>cd VoidS/</pre>
 
-<code>chmod 777 *.sh</code>
+<pre>chmod 777 *.sh</pre>
 
-<code>./start-voidsec.sh</code>
+<pre>./start-voidsec.sh</pre>
 
 <h3>Removing VoidSec:</h3>
 
-<code>./remove-voidsec.sh</code>
+<pre>./remove-voidsec.sh</pre>
 
 <h3>Closing Void Linux:</h3>
 
-<code>exit</code> (ON VOIDSEC)
+<pre>exit</pre> (ON VOIDSEC)
 
-<code>./umount-proc.sh</code> (ON YOUR SYSTEM)
+<pre>./umount-proc.sh</pre> (ON YOUR SYSTEM)
 
 <h2>Thanks.</h2>
 <h3>Credits: <a href="https://voidlinux.org/">Void Linux</a></h3>
